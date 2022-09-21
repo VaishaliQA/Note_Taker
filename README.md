@@ -6,7 +6,7 @@
   ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Deployment Link](#deployment)
+  - [Deployment](#deployment)
   - [Tools](#tools)
   - [Technologies](#technologies)
   - [License](#license)
@@ -21,14 +21,15 @@
   Instructions for use: <br>
   Project was built in express.js using the fs, path packages and runs on the command line using node server.js command.
   Here, you can see the visual of entire process.
+  <img width="955" alt="landingpage" src="https://user-images.githubusercontent.com/54869821/191387587-61b95c43-cf49-48be-8be4-9c461f5ea92f.png">
 
+<img width="949" alt="notetracker" src="https://user-images.githubusercontent.com/54869821/191387607-1d7ec7e9-5e36-4370-8bfa-680670525309.png">
 
-  
-  <img width="952" alt="teamprofile" src="https://user-images.githubusercontent.com/54869821/190048101-0c8fd540-f0d0-4e7b-9dca-1dad7fb624ad.png">
+<img width="959" alt="add note" src="https://user-images.githubusercontent.com/54869821/191387627-5992bd98-7530-49e8-a093-9534568e217f.png">
 
+<img width="960" alt="saved note" src="https://user-images.githubusercontent.com/54869821/191387643-f2b12032-6172-4199-82db-9d11e8eb301c.png">
 
-
-  ## Deployment Link:
+  ## Deployment:
   Deployed application in heroku. Below is the app link. <br>
   <a href=""> Note Taker</a>
   
