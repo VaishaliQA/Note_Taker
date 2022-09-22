@@ -19,8 +19,13 @@
     
   ## Usage:
   Instructions for use: <br>
-  Project was built in express.js using the fs, path packages and runs on the command line using node server.js command.
+  Project was built in express.js using the fs, router, path packages and runs on the command line using node server.js command.
   Here, you can see the visual of entire process.
+  
+
+https://user-images.githubusercontent.com/54869821/191634619-2d6c6779-91ba-4bb9-9dc6-1fc422086ae5.mp4
+
+
   <img width="955" alt="landingpage" src="https://user-images.githubusercontent.com/54869821/191387587-61b95c43-cf49-48be-8be4-9c461f5ea92f.png">
 
 <img width="949" alt="notetracker" src="https://user-images.githubusercontent.com/54869821/191387607-1d7ec7e9-5e36-4370-8bfa-680670525309.png">
