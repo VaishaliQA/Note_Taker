@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/54869821/191634619-2d6c6779-91ba-4bb9-
 
   ## Deployment:
   Deployed application in heroku. Below is the app link. <br>
-  <a href=""> Note Taker</a>
+  <a href="https://cryptic-oasis-52183.herokuapp.com/"> Note Taker</a>
   
   ## Tools:
   - Visual Studio Code
